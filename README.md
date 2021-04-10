@@ -9,14 +9,15 @@
 
 *  At my previous company ewasteSF, I initiated and led the transition of using third-party software into developing completely in-house web applications in order to satisfy the need of the company’s expanding services.
 *  At ewasteSF, I
-    * Designed and developed scalable and responsive e-commerce, CMS, and CRM applications from the ground up using Vue.js and Django.
-    * Performed recycling data analytic and tracking for customer dashboards serving 200+ office buildings including and several Big N companies in San Francisco.
-    * Integrated Webpack with Babel to ensure cross browser compatibility.
-    * Designed and implemented databases in SQLite and performed queriesfor Django back-end.
-    * Deployed Django applications using Gunicorn and Nginx in AWS EC2.
-    * Integrated a number of APIs such as Stripe and PayPal payment gateways, OAuth Sign-In, and AWS applications.
-    * Leveraged Google Analytics to create custom metric reports and enhance SEO, thereby reducing bounce rate by 20% and increasing conversion rate by 40%.
+   * Developed scalable e-commerce applications and supporting CMS and CRM tools from concept through deployment (Vue.js, Vuex, SQLite, Django)
+   * Launched client dashboards that featured recycling data analysis and tracking serving 200+ office buildings and tech companies in San Francisco.
+   * Standardize output and ensure cross-browser compatibility using Webpack with Babel.
+   * Designed and implemented databases in SQLite and performed queries for internal APIs.
+   * Integrated APIs and services for payment gateways, OAuth sign-in, Webhooks, and various AWS products.
+   * Leveraged Google Analytics to create metric reports and enhance SEO, thereby reduced bounce rate by 20% and increased conversion rate by 40%.
+   * Served as the team lead during the development stage and provided code feedbacks and technical recommendations to junior members.
 
+These are samples of administrative and client dashboards that I have implemented and deployed:
 <img src="/screenshots/dashboard1.png" alt="dashboard1" width="400"/>
 <img src="/screenshots/dashboard2.png" alt="dashboard2" width="400"/>
 <img src="/screenshots/dashboard3.png" alt="dashboard3" width="400"/>
